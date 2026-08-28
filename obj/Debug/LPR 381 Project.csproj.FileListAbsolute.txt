@@ -1,7 +1,0 @@
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\bin\Debug\LPR 381 Project.exe.config
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\bin\Debug\LPR 381 Project.exe
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\bin\Debug\LPR 381 Project.pdb
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\obj\Debug\LPR 381 Project.csproj.AssemblyReference.cache
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\obj\Debug\LPR 381 Project.csproj.CoreCompileInputs.cache
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\obj\Debug\LPR 381 Project.exe
-C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\LPR 381 Project\LPR 381 Project\obj\Debug\LPR 381 Project.pdb
