@@ -1,0 +1,6 @@
+C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\FullProject\LPR381\bin\Debug\solve.exe
+C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\FullProject\LPR381\bin\Debug\solve.pdb
+C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\FullProject\LPR381\obj\Debug\LPR 381 Project.csproj.AssemblyReference.cache
+C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\FullProject\LPR381\obj\Debug\LPR 381 Project.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\FullProject\LPR381\obj\Debug\solve.exe
+C:\Users\User-PC\OneDrive\Belgium campus\Third year\LPR381\FullProject\LPR381\obj\Debug\solve.pdb
